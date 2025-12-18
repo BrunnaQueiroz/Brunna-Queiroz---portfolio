@@ -59,7 +59,7 @@ const About: React.FC = () => {
               <div className="absolute -top-3 -left-3 right-3 bottom-3 border-2 border-purple-700 dark:border-purple-500 rounded-xl opacity-50"></div>
               <div className="relative z-10 rounded-xl overflow-hidden shadow-xl">
                 <img
-                  src="./foto-sj.jpg"
+                  src="./eu.jpeg"
                   alt="Brunna Queiroz"
                   className="w-full h-auto object-cover"
                 />
